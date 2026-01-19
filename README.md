@@ -6,13 +6,13 @@ YouChat is a web-based real-time chat application deployed on Vercel that lets u
 
 ✔ Real-Time Messaging – Instantly send and receive messages without refreshing the page.
 ✔ Responsive UI – Works across mobile and desktop browsers.
-✔ Room or Group Chat Support – Users can join or create different chat rooms (if implemented).
+✔ Room or Group Chat Support – Users can join or create different chat rooms.
 ✔ User-Friendly Interface – Clean and intuitive layout for easy chatting.
 ✔ Lightweight and Fast – Built for performance with minimal dependencies and hosted via Vercel.
 
 🛠️ Built With
 
-Vite + React / Next.js (or similar front-end framework) – for fast and reactive UI.
+Vite + React – for fast and reactive UI.
 
 WebSockets / Realtime Database – for low-latency communication.
 
@@ -23,7 +23,6 @@ Optional Backend – (Node.js, Firebase, or Socket.io) for managing message deli
 🚀 Live Demo
 
 🔗 https://youchat-chatting-app-3tzc.vercel.app/
- (replace with actual link if different)
 
 💡 Getting Started
 
